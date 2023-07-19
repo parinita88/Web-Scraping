@@ -1,2 +1,4 @@
 # Web-Scraping
- Scrape website data and analyse it
+ Scrape data from two different websites :
+ - Yahoo Finance website
+ - Natural Resources Canada
